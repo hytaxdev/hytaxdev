@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hytaxdev&show_icons=true&locale=en" alt="hytaxdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hytaxdev&" alt="hytaxdev" /></p>
+
+![snake gif](https://github.com/hytaxdev/hytaxdev/blob/output/github-contribution-grid-snake.gif)
